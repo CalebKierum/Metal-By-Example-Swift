@@ -1,10 +1,10 @@
 # Metal By Example Swift 4
 
-This code is me coding along with the Metal Example book but with swift 4 in the latest version of XCode.
+This code is me going along with the Metal Example book but with swift 4.
 
-The origional code by the author can be found [here](https://github.com/metal-by-example/sample-code)
+The original code by the author can be found [here](https://github.com/metal-by-example/sample-code)
 
-I am mostly focusing on learning the graphics concepts in the book so my code design may be poor. Please let me know if you suggest any improvements!
+I am mostly focusing on learning the graphics concepts in the book so my code design may be poor. Please let me know if you have any suggested improvements!
 
 # Setup
 1. Create a single view swift application
